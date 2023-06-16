@@ -1,0 +1,6 @@
+__pycache__
+Verslagen
+*.bkp
+.vscode
+Songs
+HistoryData.json
